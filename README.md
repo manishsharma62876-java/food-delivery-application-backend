@@ -468,8 +468,36 @@ API will be available at: `http://localhost:8080`
 
 ## 👨‍💻 Author
 
-**Manish**  
-GitHub: [@your-username](https://github.com/your-username)
+<table>
+  <tr>
+    <td><b>Name</b></td>
+    <td>Manish Sharma</td>
+  </tr>
+  <tr>
+    <td>📧 <b>Email</b></td>
+    <td><a href="mailto:manish62876@gmail.com">manish62876@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>🐙 <b>GitHub</b></td>
+    <td><a href="https://github.com/manishsharma62876-java">github.com/manishsharma62876-java</a></td>
+  </tr>
+  <tr>
+    <td>💼 <b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/manish-sharma-6964a0383/">linkedin.com/in/manish-sharma-6964a0383</a></td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Portfolio</b></td>
+    <td><a href="https://manishsharma62876-java.github.io/manishsharmaportfolio/">manishsharma62876-java.github.io/manishsharmaportfolio</a></td>
+  </tr>
+  <tr>
+    <td>📞 <b>Phone</b></td>
+    <td>+91 9572114007</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Hyderabad, India</td>
+  </tr>
+</table>
 
 ---
 
